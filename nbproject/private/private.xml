@@ -3,42 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Semaphores_12/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LowLevelProducerConsumer_9/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Deadlock_11/Runner.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/CallableAndFuture_13/App2.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Java8Features/AnonyFunctInterface.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Semaphores_12/Connectionn.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Semaphores_12/Connection.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LowLevelDataTransfer/Data.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/WaitAndNotify_8/Processor.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/WaitAndNotify_8/BlockingQueueApp.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Deadlock_11/Account.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/WaitAndNotify_8/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/tests.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/ThreadPools_5/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LowLevelProducerConsumer_9/Processor.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/ThreadPools_5/WorkerThreadPool.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/InterruptingThreads14/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LockObjects_4/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/StartingThreads_1/ApplicationRunnable.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LockObjects_4/Worker.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Deadlock_11/SimpleDeadLock.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/ReentrantLocks_10/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LowLevelDataTransfer/Sender.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LockObjects_4/WorkerMethodsSynchronized.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/JoiningAndSynchronizeThreads_3/Worker.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/CountDownLatch_6/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LowLevelDataTransfer/Receiver.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/ReentrantLocks_10/Runner.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/CallableAndFuture_13/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/LowLevelDataTransfer/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/ProducerConsumer_7/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/Deadlock_11/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/CallableAndFuture_13/CallableTester.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/StartingThreads_1/ApplicationExtends.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/VolatileKeyword_2/App.java</file>
-            <file>file:/Users/pearlsoft/NetBeansProjects/JavaMultiThreadingCodes/src/StartingThreads_1/ApplicationAnonymous.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SRP/MentionPostImp.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SRP/PostHandler.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SolidViolation/PostHandler.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SRP/TagPostImp.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/DependencyInversion/DIHandler.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SRP/Post.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SolidViolation/DIHandler.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SRP/MentionPost.java</file>
+            <file>file:/Users/dotunooluyade/NetBeansProjects/JavaMultiThreadingCodes/src/SRP/TagPost.java</file>
         </group>
     </open-files>
 </project-private>

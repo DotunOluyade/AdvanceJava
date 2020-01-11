@@ -17,31 +17,38 @@ public class Data {
   
     public synchronized void send(String packet) {
         while (!transfer) {
+            System.out.println("send: Receiving packets....");
             try { 
                 wait();
+                System.out.println("send: releasing lock...");
             } catch (InterruptedException e)  {
                 Thread.currentThread().interrupt(); 
                 e.printStackTrace();
             }
         }
         transfer = false;
-         
+        System.out.println("send: set transfer to false and calling notifyAll");
+
         this.packet = packet;
         notifyAll();
     }
   
     public synchronized String receive() {
         while (transfer) {
+            System.out.println("receive: receiving packets....");
             try {
                 wait();
+                System.out.println("receive: releasing lock...");
             } catch (InterruptedException e)  {
                 Thread.currentThread().interrupt(); 
                 e.printStackTrace(); 
             }
         }
         transfer = true;
+        System.out.println("receive: set transfer to true and calling notifyAll");
  
         notifyAll();
+        System.out.println("receive:returning received packet");
         return packet;
     }
 }

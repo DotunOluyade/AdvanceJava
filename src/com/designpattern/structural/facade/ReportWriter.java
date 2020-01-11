@@ -1,0 +1,25 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.designpattern.structural.facade;
+
+/**
+ *
+ * @author User
+ */
+public class ReportWriter {
+     
+    public void writeHtmlReport(Report report, String location) {
+        System.out.println("HTML Report written");
+         
+        //implementation
+    }
+     
+    public void writePdfReport(Report report, String location) {
+        System.out.println("Pdf Report written");
+         
+        //implementation
+    }
+}
